@@ -1,4 +1,4 @@
-# NetSentinel AI
+# NetSentinel AI - AI Project Management Portfolio
 <p align="center">
   <img src="Netsentinal AI Banner .png" alt="NetSentinel AI Banner" width="100%">
 </p>
@@ -19,6 +19,11 @@ The client organisation ("Meridian Financial Group"), stakeholders, conversation
 **Presented honestly as a self-built simulation, not a claimed client engagement.**
 
 ---
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![AI](https://img.shields.io/badge/AI-ML-blue)
+![Project Management](https://img.shields.io/badge/Project-PM-orange)
+![Methodology](https://img.shields.io/badge/Delivery-Hybrid-yellow)
+![Portfolio](https://img.shields.io/badge/Portfolio-Case%20Study-purple)
 
 ## Project Overview
 
@@ -28,11 +33,15 @@ Meridian Financial Group, a fictional regional bank operating 40 branches and th
 
 As Project Manager, this program was owned end-to-end: business case and charter, stakeholder alignment across IT Ops, NOC, Data Science, Security, and Finance, scope and schedule management, risk and change control, vendor/API integration governance, and final closure and benefits realisation reporting. The program used a **hybrid Waterfall-Agile delivery model** — Waterfall governance for infrastructure and compliance gates, Agile sprints for ML model development — reflecting how AI initiatives actually get delivered inside regulated, infrastructure-heavy environments.
 
+---
+
 ## Solution Architecture
 
 <p align="center">
 <img src="NetSentinal AI Architecture diagram.png" width="95%">
 </p>
+
+----
 
 ### Project Snapshot
 
@@ -51,6 +60,8 @@ As Project Manager, this program was owned end-to-end: business case and charter
 <p align="center">
 <img src="NetSentinal AI Workflow.png" width="95%">
 </p>
+
+---
 
 ## Outcome Snapshot
 
@@ -71,6 +82,8 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 <p align="center">
 <img src="Netsentinal AI Executive Dashboard.png" width="95%">
 </p>
+
+---
 
 ## Repository Contents
 
@@ -104,6 +117,8 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 <img src="NetSentinal AI Gantt chart.png" width="95%">
 </p>
 
+---
+
 ## The Five-Phase Lifecycle
 
 1. **Initiation** — Securing sponsorship after a prior failed AIOps evaluation, with a hard human-approval-gate constraint written into the charter from day one.
@@ -118,6 +133,27 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 <p align="center">
 <img src="Netsentinal AI Risk-heatmap .png" width="80%">
 </p>
+---
+## Skills Demonstrated
+
+- AI Project Management
+- Project Planning
+- Agile & Scrum
+- Hybrid Delivery
+- Waterfall
+- Stakeholder Management
+- Risk Management
+- RAID Management
+- Budget Management
+- ITSM
+- ServiceNow
+- Azure Machine Learning
+- Cisco DNA Center
+- Power BI
+- Executive Reporting
+
+  ---
+  
 ## How This Fits Into My Portfolio
 
 This case study sits alongside a **ChangeGuard AI** case study (predictive ML risk-scoring for IT Change Advisory Boards in a regulated bank). Together they're meant to show range across infrastructure-heavy and governance-heavy AI/ML delivery:
