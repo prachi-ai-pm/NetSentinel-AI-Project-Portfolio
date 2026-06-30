@@ -174,6 +174,14 @@ This case study sits alongside a **ChangeGuard AI** case study (predictive ML ri
 - **Lead with ChangeGuard AI** for model-risk-governance-heavy or fairness/explainability-focused roles.
 
 ---
+## Contact
 
+Prachi Sharma
+
+LinkedIn - https://www.linkedin.com/in/prachi-sharma-19a210183/
+
+GitHub - https://github.com/prachi-ai-pm
+
+Email - pnsbhilwara298@gmail.com
 *Prachi Sharma — Senior Associate, Change Control Analyst · Project Manager (simulated role, this portfolio)*
 
