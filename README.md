@@ -31,7 +31,7 @@ As Project Manager, this program was owned end-to-end: business case and charter
 ## Solution Architecture
 
 <p align="center">
-<img src="Netsentinal AI Architecture diagram.png" width="95%">
+<img src="NetSentinal AI Architecture diagram.png" width="95%">
 </p>
 
 ### Project Snapshot
