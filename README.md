@@ -1,6 +1,6 @@
 # NetSentinel AI
 <p align="center">
-  <img src="Netsentinal AI Banner.png" alt="NetSentinel AI Banner" width="100%">
+  <img src="main/Netsentinal AI Banner.png" alt="NetSentinel AI Banner" width="100%">
 </p>
 **An End-to-End AI/ML Project Management Case Study**
 *Predictive Network Incident Management & Auto-Remediation Platform — Initiation Through Closure*
