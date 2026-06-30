@@ -27,17 +27,14 @@ The client organisation ("Meridian Financial Group"), stakeholders, conversation
 
 ## Table of Contents
 
-- Project Overview
-- Solution Architecture
-- Workflow
-- Outcome Snapshot
-- Executive Dashboard
-- Repository Contents
-- Timeline
-- Five-Phase Lifecycle
-- Risk Heat Map
-- Skills Demonstrated
-- About
+- [Project Overview](#project-overview)
+- [Solution Architecture](#solution-architecture)
+- [End-to-End Workflow](#end-to-end-workflow)
+- [Outcome Snapshot](#outcome-snapshot)
+- [Executive Dashboard](#executive-dashboard)
+- [Repository Contents](#repository-contents)
+- [Project Timeline](#project-timeline)
+- [Risk Heat Map](#risk-heat-map)
 
 ## Project Overview
 
@@ -148,6 +145,7 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 <img src="Risk-heatmap.png" width="80%">
 </p>
 ---
+
 ## Skills Demonstrated
 
 - AI Project Management
