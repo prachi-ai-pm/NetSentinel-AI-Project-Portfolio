@@ -1,6 +1,6 @@
 # NetSentinel AI - AI Project Management Portfolio
 <p align="center">
-  <img src="Netsentinal AI Banner .png" alt="NetSentinel AI Banner" width="100%">
+  <img src="Banner.png" alt="NetSentinel AI Banner" width="100%">
 </p>
 **An End-to-End AI/ML Project Management Case Study**
 *Predictive Network Incident Management & Auto-Remediation Platform — Initiation Through Closure*
@@ -52,7 +52,7 @@ As Project Manager, this program was owned end-to-end: business case and charter
 ## Solution Architecture
 
 <p align="center">
-<img src="NetSentinal AI Architecture diagram.png" width="95%">
+<img src="Architecture diagram.png" width="95%">
 </p>
 
 ----
@@ -72,7 +72,7 @@ As Project Manager, this program was owned end-to-end: business case and charter
 ## End-to-End Workflow
 
 <p align="center">
-<img src="NetSentinal AI Workflow.png" width="95%">
+<img src="Workflow.png" width="95%">
 </p>
 
 ---
@@ -94,7 +94,7 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 ## Executive Dashboard
 
 <p align="center">
-<img src="Netsentinal AI Executive Dashboard.png" width="95%">
+<img src="Executive Dashboard.png" width="95%">
 </p>
 
 ---
@@ -128,7 +128,7 @@ All charter success criteria were met or exceeded, with the program closing 3% u
   ## Project Timeline
 
 <p align="center">
-<img src="NetSentinal AI Gantt chart.png" width="95%">
+<img src="Gantt chart.png" width="95%">
 </p>
 
 ---
@@ -145,7 +145,7 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 ## Risk Heat Map
 
 <p align="center">
-<img src="Netsentinal AI Risk-heatmap .png" width="80%">
+<img src="Risk-heatmap.png" width="80%">
 </p>
 ---
 ## Skills Demonstrated
