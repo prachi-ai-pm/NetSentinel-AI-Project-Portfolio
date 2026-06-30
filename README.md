@@ -25,6 +25,20 @@ The client organisation ("Meridian Financial Group"), stakeholders, conversation
 ![Methodology](https://img.shields.io/badge/Delivery-Hybrid-yellow)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Case%20Study-purple)
 
+## Table of Contents
+
+- Project Overview
+- Solution Architecture
+- Workflow
+- Outcome Snapshot
+- Executive Dashboard
+- Repository Contents
+- Timeline
+- Five-Phase Lifecycle
+- Risk Heat Map
+- Skills Demonstrated
+- About
+
 ## Project Overview
 
 Meridian Financial Group, a fictional regional bank operating 40 branches and three regional data centres across APAC, was experiencing recurring P1/P2 network incidents that breached SLA commitments, eroded customer trust, and consumed significant NOC and engineering effort in reactive firefighting.
