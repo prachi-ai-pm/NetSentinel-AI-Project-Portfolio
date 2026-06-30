@@ -28,6 +28,12 @@ Meridian Financial Group, a fictional regional bank operating 40 branches and th
 
 As Project Manager, this program was owned end-to-end: business case and charter, stakeholder alignment across IT Ops, NOC, Data Science, Security, and Finance, scope and schedule management, risk and change control, vendor/API integration governance, and final closure and benefits realisation reporting. The program used a **hybrid Waterfall-Agile delivery model** — Waterfall governance for infrastructure and compliance gates, Agile sprints for ML model development — reflecting how AI initiatives actually get delivered inside regulated, infrastructure-heavy environments.
 
+## Solution Architecture
+
+<p align="center">
+<img src="Netsentinal AI aAchitecture diagram.png" width="95%">
+</p>
+
 ### Project Snapshot
 
 | | |
@@ -40,6 +46,11 @@ As Project Manager, this program was owned end-to-end: business case and charter
 | **Core technology stack** | Cisco DNA Center API, SolarWinds NPM, Azure Machine Learning, Python/scikit-learn/XGBoost, ServiceNow REST API, Power BI |
 
 ---
+## End-to-End Workflow
+
+<p align="center">
+<img src="NetSentinal AI Workflow.png" width="95%">
+</p>
 
 ## Outcome Snapshot
 
@@ -55,6 +66,11 @@ As Project Manager, this program was owned end-to-end: business case and charter
 All charter success criteria were met or exceeded, with the program closing 3% under budget. The headline numbers are the easy story; the real demonstration of judgment is in how a sponsor who had already shelved one failed AIOps evaluation was brought to a confident go-live decision — through deliberate scope narrowing, a hard human-approval-gate design constraint, and transparent handling of a mid-execution model precision miss.
 
 ---
+## Executive Dashboard
+
+<p align="center">
+<img src="Netsentinal AI Executive Dashboard.png" width="95%">
+</p>
 
 ## Repository Contents
 
@@ -82,6 +98,12 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 - **Delivery model:** Hybrid — Waterfall gates for infra/compliance, 2-week Agile sprints for the ML workstream
 - **Core technology stack:** Cisco DNA Center API, SolarWinds NPM, Azure Machine Learning, Python/scikit-learn/XGBoost, ServiceNow REST API, Power BI
 
+  ## Project Timeline
+
+<p align="center">
+<img src="NetSentinal AI Gantt chart.png" width="95%">
+</p>
+
 ## The Five-Phase Lifecycle
 
 1. **Initiation** — Securing sponsorship after a prior failed AIOps evaluation, with a hard human-approval-gate constraint written into the charter from day one.
@@ -91,7 +113,11 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 5. **Closure** — Formal benefits realisation against the original business case, an 8-week hypercare handoff to BAU, and a credible Phase 2 candidate (ATM network extension) left open for the sponsor rather than a closed conversation.
 
 ---
+## Risk Heat Map
 
+<p align="center">
+<img src="Netsentinal AI Risk-heatmap .png" width="80%">
+</p>
 ## How This Fits Into My Portfolio
 
 This case study sits alongside a **ChangeGuard AI** case study (predictive ML risk-scoring for IT Change Advisory Boards in a regulated bank). Together they're meant to show range across infrastructure-heavy and governance-heavy AI/ML delivery:
