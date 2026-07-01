@@ -110,6 +110,13 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 | [`08-Risk-Register.md`](./08-Risk-Register.md) | Risk-specific deep dive with likelihood/impact scoring, mitigations, and the full risk burn-down to pilot close |
 | [`09-Sprint-Plan.md`](./09-Sprint-Plan.md) | The eight two-week Agile sprints that built the ML workstream, run in parallel with a Waterfall-governed infrastructure track |
 | [`10-Product-Backlog.md`](./10-Product-Backlog.md) | MoSCoW-prioritised, sprint-mapped backlog across five epics, including the mid-program re-prioritisation that closed the precision gap |
+| [`10-Product-Backlog.md`](./10-Product-Backlog.md) | MoSCoW-prioritised, sprint-mapped backlog across five epics, including the mid-program re-prioritisation that closed the precision gap |
+| [`11-User-Stories.md`](./11-User-Stories.md) | Detailed stories with acceptance criteria, written from each real stakeholder's perspective (NOC analyst, Sponsor, Security Lead, and more) |
+| [`12-Budget.md`](./12-Budget.md) | Approved budget breakdown, actual closure spend (3% under), change-request cost impact, and ongoing run-cost communicated before closure |
+| [`13-Architecture-Diagram.md`](./13-Architecture-Diagram.md) | System architecture from telemetry sources through the prediction pipeline, NOC workflow, and human approval gate, with a GitHub-native Mermaid diagram |
+| [`14-Project-Closure-Report.md`](./14-Project-Closure-Report.md) | Formal closure against the charter — objectives vs. outcomes, pilot results, budget closure, governance sign-offs, and the rollout and closure gate Q&A |
+| [`15-Lessons-Learned.md`](./15-Lessons-Learned.md) | What worked, what to do differently, reusable patterns, and Phase 2 roadmap — including the headline lesson on why the human-approval-gate constraint was the single biggest adoption factor |
+| [`16-Complete-Documentation.md`](./16-Complete-Documentation.md) | Full index organised by delivery phase, documentation coverage map, key cross-document threads to follow, and interview talking-points quick reference |
 
 ---
 
@@ -144,6 +151,11 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 <p align="center">
 <img src="Risk-heatmap.png" width="80%">
 </p>
+---
+## Project Status
+
+**Delivered and transitioned to BAU.** All charter success criteria were met or exceeded; the program closed 3% under budget with no scope cuts and no uncontrolled changes. The project formally closed and handed off into standing operational ownership — NOC Lead owns day-to-day model monitoring with a documented runbook; ongoing Azure ML compute cost (~$3,200/month) was communicated to Finance before closure. CR-03 (ATM network extension) was formally reopened as a Phase 2 business case candidate. See [14-Project-Closure-Report.md](./14-Project-Closure-Report.md) for the full closure record and [15-Lessons-Learned.md](./15-Lessons-Learned.md) for the reflective review — including the headline lesson on why the human-approval-gate constraint, written into the charter before any technical work started, was the single biggest factor in NOC adoption.
+
 ---
 
 ## Skills Demonstrated
