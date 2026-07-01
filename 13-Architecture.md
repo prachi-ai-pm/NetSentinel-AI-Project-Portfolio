@@ -1,4 +1,4 @@
-# Architecture Diagram
+# Architecture
 
 **NetSentinel AI — Predictive Network Incident Management & Auto-Remediation Platform**
 
