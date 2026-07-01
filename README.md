@@ -152,6 +152,7 @@ All charter success criteria were met or exceeded, with the program closing 3% u
 <img src="Risk-heatmap.png" width="80%">
 </p>
 ---
+
 ## Project Status
 
 **Delivered and transitioned to BAU.** All charter success criteria were met or exceeded; the program closed 3% under budget with no scope cuts and no uncontrolled changes. The project formally closed and handed off into standing operational ownership — NOC Lead owns day-to-day model monitoring with a documented runbook; ongoing Azure ML compute cost (~$3,200/month) was communicated to Finance before closure. CR-03 (ATM network extension) was formally reopened as a Phase 2 business case candidate. See [14-Project-Closure-Report.md](./14-Project-Closure-Report.md) for the full closure record and [15-Lessons-Learned.md](./15-Lessons-Learned.md) for the reflective review — including the headline lesson on why the human-approval-gate constraint, written into the charter before any technical work started, was the single biggest factor in NOC adoption.
